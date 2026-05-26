@@ -1,2 +1,0 @@
-VCD info: dumpfile ../../output/pre_synth_sim/pre_synth_sim.vcd opened for output.
-testbench.v:67: $finish called at 84999000 (1ps)
